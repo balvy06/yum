@@ -73,3 +73,9 @@
 # # extra small (2-1/2" dia) # g
 # # NLEA serving # g
 
+
+# household measures for food items (e.g. # cup, # tablespoon, # fruit, # leg)
+
+# weights are given "for edible material without refuse" (i.e. the parts you eat)
+
+# for each food iteam, there are gram weights and measure descriptions
