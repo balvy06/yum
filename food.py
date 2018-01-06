@@ -9,6 +9,8 @@
 # NDB 21275 PIZZA HUT 12" Pepperoni Pizza, Pan Crust
 # 
 # NDB 11206 Cucumber, peeled, raw 
+# 
+# NDB 14037 Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof
 
 
 
@@ -54,6 +56,8 @@
 # Common household measures
 # # Value Per # g
 # # item # oz # g
+# # fl oz # g
+# # jigger (1.5 fl oz) # g
 # # pizza # g
 # # slice # g
 # # stick (4" long) # g
