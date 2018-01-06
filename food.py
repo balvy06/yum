@@ -6,7 +6,9 @@
 # 
 # NDB 21237 McDONALD'S, BIG MAC
 # 
-# NDB 21275, PIZZA HUT 12" Pepperoni Pizza, Pan Crust
+# NDB 21275 PIZZA HUT 12" Pepperoni Pizza, Pan Crust
+# 
+# NDB 11206 Cucumber, peeled, raw 
 
 
 
@@ -54,14 +56,20 @@
 # # item # oz # g
 # # pizza # g
 # # slice # g
+# # stick (4" long) # g
 # # cup, chopped # g
+# # cup, pared, chopped # g
 # # cup, quartered or chopped # g
+# # cup, sliced # g
 # # cup slices # g
 # # tbsp # g
 # # large # g
 # # large (3-1/4" dia) # g
+# # large (8-1/4" long) # g
 # # medium (3" dia) # g
+# # medium # g
 # # small (2-3/4" dia) # g
+# # small (6-3/8" long) # g
 # # extra small (2-1/2" dia) # g
 # # NLEA serving # g
 
