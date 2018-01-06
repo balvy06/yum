@@ -11,7 +11,12 @@
 # NDB 11206 Cucumber, peeled, raw 
 # 
 # NDB 14037 Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof
-
+# 
+# NDB 45118066 MUTTI PARMA, BABY ROMA TOMATOES, UPC: 854693000645
+# 
+# NDB 45185321 ORGANIC ROMA TOMATOES, UPC: 741243000104
+# 
+# NDB 45272510 ROMA TOMATOES, UPC: 040232303029
 
 
 # Water
@@ -55,12 +60,15 @@
 
 # Common household measures
 # # Value Per # g
+# # GRM # g
+# # MEDIUM TOMATO # g
 # # item # oz # g
 # # fl oz # g
 # # jigger (1.5 fl oz) # g
 # # pizza # g
 # # slice # g
 # # stick (4" long) # g
+# # cup # g
 # # cup, chopped # g
 # # cup, pared, chopped # g
 # # cup, quartered or chopped # g
@@ -83,3 +91,7 @@
 # weights are given "for edible material without refuse" (i.e. the parts you eat)
 
 # for each food iteam, there are gram weights and measure descriptions
+
+
+# SR18 food search function notes:
+# - cannot filter descriptions
