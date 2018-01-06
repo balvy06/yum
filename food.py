@@ -51,7 +51,7 @@
 # Unit: mg 
 
 
-# Amounts
+# Common household measures
 # # Value Per # g
 # # item # oz # g
 # # pizza # g
