@@ -5,6 +5,9 @@
 # NDB 01129 Egg, whole, cooked, hard-boiled
 # 
 # NDB 21237 McDONALD'S, BIG MAC
+# 
+# NDB 21275, PIZZA HUT 12" Pepperoni Pizza, Pan Crust
+
 
 
 # Water
@@ -49,6 +52,8 @@
 # Amounts
 # # Value Per # g
 # # item # oz # g
+# # pizza # g
+# # slice # g
 # # cup, chopped # g
 # # cup, quartered or chopped # g
 # # cup slices # g
