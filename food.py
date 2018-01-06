@@ -3,7 +3,8 @@
 # NDB 09003 Apples, raw, with skin
 # 
 # NDB 01129 Egg, whole, cooked, hard-boiled
-
+# 
+# NDB 21237 McDONALD'S, BIG MAC
 
 
 # Water
@@ -47,6 +48,7 @@
 
 # Amounts
 # # Value Per # g
+# # item # oz # g
 # # cup, chopped # g
 # # cup, quartered or chopped # g
 # # cup slices # g
