@@ -43,3 +43,11 @@
 
 
 # Amounts
+# # Value Per # g
+# # cup, quartered or chopped # g
+# # cup slices # g
+# # large (3-1/4" dia) # g
+# # medium (3" dia) # g
+# # small (2-3/4" dia) # g
+# # extra small (2-1/2" dia) # g
+# # NLEA serving # g
