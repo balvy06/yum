@@ -19,6 +19,9 @@
 # NDB 45272510 ROMA TOMATOES, UPC: 040232303029
 
 
+
+# Proximates (macronutrients): water, protein, total lipid (fat), total carbohydrate, and ash
+
 # Water
 # Unit: g
 
@@ -92,6 +95,27 @@
 
 # for each food iteam, there are gram weights and measure descriptions
 
+# there is data on food components
+
 
 # SR18 food search function notes:
 # - cannot filter descriptions
+
+# SR28 data files are available in ASCII (ISO/IEC 8859-1) format
+
+# SR28 abbreviated file with fewer nutrients (46) but all the food items is also included
+ 
+# macronutrients
+
+# appropriate nutrient retention (USDA, 2007)?
+# and food yield factors (Matthews and Garrison, 1975)?
+ 
+ 
+ 
+ 
+ 
+ # ingredients
+ # - are a list of substances used to make the food item
+ # - typically, the substances are listed in order of increasing mass
+ # - when adding food items, it may not be possible to maintain order by mass
+ 
