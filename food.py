@@ -1,3 +1,34 @@
+# some ideas for psuedo-code
+
+# focus: get comfortable doing the following tasks:
+#  1) organizing food varieties (e.g. brands, groups, items) for daily eating. 
+#  2) saving meals
+#  3) expressing food amounts
+#  
+# approach: compile a representative list of daily foods and beverages. To simplify matters consider only one nutrient (e.g. calories [kcal]).
+#  
+
+# simple name: brocolli
+# detailed name: brocolli florets
+# portion: 1 bag, 382.5 g
+# nutrients: energy 135 kcal
+# prep details: cooked frozen brocolli on stove. added seasonings.
+# brand: stater bros.
+
+# simple name: olive oil
+# detailed name: extra virgin olive oil
+# portion: 6 tbsp, ? g (need to measure this)
+# nutrients: energy 720 kcal
+# prep details: cooked into food on stove
+# brand: stater bros.
+
+# creamers
+# k-cups
+# taco
+# cashews
+
+
+
 # Info from the USDA (United States Department of Agriculture) National Nutrient Database for Standard Reference
 # 
 # NDB 09003 Apples, raw, with skin
