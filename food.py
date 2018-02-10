@@ -85,26 +85,68 @@
 # prep details: restaurant served. selected items: soft flour tortilla, sofritas, brown rice, black beans, fajita vegetables, tomatillo-green chili salsa, roasted chili-corn salsa, romaine lettuce
 # brand: chipotle
 
-# simple name: ...
-# detailed name: ...
-# portion: ...
-# nutrients: ...
-# prep details: ...
-# brand: ...
+# simple name: almond milk
+# detailed name: unsweetened almond milk
+# portion: 361 g, 361 g
+# nutrients: energy ? kcal
+# prep details: none
+# brand: silk
 
-# simple name: ...
-# detailed name: ...
-# portion: ...
-# nutrients: ...
-# prep details: ...
-# brand: ...
+# simple name: almond milk
+# detailed name: unsweetened almond milk
+# portion: 400 mL, ? g
+# nutrients: energy 50 kcal
+# prep details: none
+# brand: silk
 
-# simple name: ...
-# detailed name: ...
-# portion: ...
-# nutrients: ...
-# prep details: ...
-# brand: ...
+# simple name: edamame caviar salad
+# detailed name: edamame caviar salad
+# portion: 1 cup, ? g
+# nutrients: energy 220? kcal
+# prep details: none
+# brand: ralph's (papa johns?)
+
+# simple name: edamame caviar salad
+# detailed name: edamame caviar salad
+# portion: 182 g, 182 g
+# nutrients: energy ? kcal
+# prep details: none
+# brand: ralph's (papa johns?)
+
+# simple name: dijon mustard
+# detailed name: dijon mustard made with white wine
+# portion: 3 tbsp, 15 g
+# nutrients: energy 15 kcal
+# prep details: none
+# brand: grey poupon
+
+# simple name: tomatoe
+# detailed name: Tomatoes, red, ripe, raw, year round average
+# portion: 1 full, 344 g
+# nutrients: energy 61.92 kcal
+# prep details: none
+# brand: usda 11529
+
+# simple name: turkey slices
+# detailed name: white turkey cured slices
+# portion: 3 slices, 84 g
+# nutrients: energy 105 kcal
+# prep details: none
+# brand: heritage farm
+
+# simple name: sandwich sprouts
+# detailed name: nano-shoots bold brocolli
+# portion: 0.75 oz, 21.25 g
+# nutrients: energy 8.75 kcal
+# prep details: none
+# brand: ra
+
+# simple name: pickle sandwich slices
+# detailed name: stackers kosher dill pickles
+# portion: 5 slices, 70 g
+# nutrients: energy 0 kcal
+# prep details: none
+# brand: vlasic
 
 # simple name: ...
 # detailed name: ...
