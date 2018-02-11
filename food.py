@@ -5,8 +5,80 @@
 #  2) saving meals
 #  3) expressing food amounts
 #  
-# approach: compile a representative list of daily foods and beverages. To simplify matters consider only one nutrient (e.g. calories [kcal]).
-#  
+# approach: 
+#  1) compile a representative list of daily foods and beverages. To simplify matters consider only one nutrient (e.g. calories [kcal]).
+#  2) list different ways to group foods (e.g. places to eat)
+#  3) list potential code statements
+
+
+# ==============================================================================
+# list of different ways to group foods
+# ==============================================================================
+
+
+# a database can hold all foods
+# a more specialized collection of foods can be held in a python module
+#  each python module will be based on food_group.brand
+#
+# food.groups.brands
+#
+#   group: veggies
+#   group: fruits
+#   group: grains
+#   group: protein
+#   group: dairy
+#   group: oils
+#
+#   brand: stater bros.
+#   brand: jennie-o
+#   brand: heinz
+#   brand: planters
+#   brand: international delight
+#   brand: jack daniel's
+#   brand: kikkoman
+#   brand: chipotle
+#   brand: silk
+#   brand: ralph's (papa johns?)
+#   brand: grey poupon
+#   brand: usda 11529
+#   brand: heritage farm
+#   brand: ra
+#   brand: vlasic
+#   brand: hawaiian host
+#   brand: so delicious
+
+# group
+# -------------
+# vegetables
+# fruits
+# grains
+# protein
+# dairy
+# oils
+
+# group
+# -------------
+# break room snacks
+# restaurants
+# store
+
+# group
+# -------------
+# treat
+# snack
+# meal
+
+# group
+# -------------
+# breakfast
+# lunch
+# dinner
+# desert
+
+
+# ==============================================================================
+# daily foods and beverages
+# ==============================================================================
 
 # simple name: brocolli
 # detailed name: brocolli florets
@@ -148,6 +220,41 @@
 # prep details: none
 # brand: vlasic
 
+# simple name: chocolate
+# detailed name: selected whole and halves chocolate covered macadamia nuts
+# portion: 1 piecce, 14 g
+# nutrients: energy 86.7 kcal
+# prep details: none
+# brand: hawaiian host
+
+# simple name: yogurt
+# detailed name: dairy free coconut milk yogurt alternative strawberry
+# portion: 1 container
+# nutrients: energy 120 kcal
+# prep details: none
+# brand: so delicious
+
+# simple name: soup
+# detailed name: grilled chicken & sausage gumbo chunky soup
+# portion: 1 container, 
+# nutrients: energy 310 kcal
+# prep details: cooked on stove
+# brand: campbell's
+
+# simple name: ...
+# detailed name: ...
+# portion: ...
+# nutrients: ...
+# prep details: ...
+# brand: ...
+
+# simple name: ...
+# detailed name: ...
+# portion: ...
+# nutrients: ...
+# prep details: ...
+# brand: ...
+
 # simple name: ...
 # detailed name: ...
 # portion: ...
@@ -169,11 +276,18 @@
 # prep details: ...
 # brand: ...
 
-# creamers
+# simple name: ...
+# detailed name: ...
+# portion: ...
+# nutrients: ...
+# prep details: ...
+# brand: ...
+
 # k-cups
-# taco
-# cashews
 
+# ==============================================================================
+# notes from USDA database user's guide
+# ==============================================================================
 
 
 # Info from the USDA (United States Department of Agriculture) National Nutrient Database for Standard Reference
