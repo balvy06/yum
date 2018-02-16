@@ -20,16 +20,27 @@
 # a more specialized collection of foods can be held in a python module
 #  each python module will be based on food_group.brand
 #
-# food.groups.brands
-# food.nutrient
-
-# simple name: soy sauce
-# detailed name: traditionally brewed soy sauce
-# portion: 4 tbsp, ? g
-# nutrients: energy 40 kcal
-# prep details: cooked on stove
-# brand: kikkoman
-
+# food.groups.brands (new modules)
+# food.item (new class)
+# food.portion (named tuple)
+# food.nutrients (new class)
+# food.nutrient (new class)
+#
+# .item.simple_name = {string, none}
+# .item.detailed_name = {string, none}
+# .item.portion = {named tuple, none} where tuple is (.name, .mass [g], .volume [fl-oz])
+# .item.nutrients = {nutrients, none}
+# .item.prepare = {string, none}
+# .item.brand = {string, none}
+#
+#
+# scaling item: number * item => item.portion.{mass,volume} *= number
+# adding item: item1 + item2 + item3 + item4 => item5 where ...
+#   option 1) set new value
+#   option 2) use combined string (; delimited) left to right, where elements are unique
+#   option 3) add nutrients and portions
+#   option 4) change_object(item1 + item2 + item3, NAME, VALUE, ...)
+#   
 #
 #   group: veggies
 #   group: fruits
