@@ -21,6 +21,15 @@
 #  each python module will be based on food_group.brand
 #
 # food.groups.brands
+# food.nutrient
+
+# simple name: soy sauce
+# detailed name: traditionally brewed soy sauce
+# portion: 4 tbsp, ? g
+# nutrients: energy 40 kcal
+# prep details: cooked on stove
+# brand: kikkoman
+
 #
 #   group: veggies
 #   group: fruits
@@ -240,6 +249,62 @@
 # nutrients: energy 310 kcal
 # prep details: cooked on stove
 # brand: campbell's
+
+# simple name: hard boiled eggs
+# detailed name: Egg, whole, cooked, hard-boiled
+# portion: 100 g, 100 g
+# nutrients: energy 155 kcal
+# prep details: hard boiled
+# brand: 01129
+
+# simple name: ...
+# detailed name: Egg, whole, cooked, scrambled
+# portion: 100 g, 100 g
+# nutrients: energy 149 kcal
+# prep details: scrambleds
+# brand: 01132
+
+# simple name: poached egg
+# detailed name: Egg, whole, cooked, poached 
+# portion: 100 g, 100 g
+# nutrients: energy 143 kcal
+# prep details: poached
+# brand: 01131
+
+# simple name: egg white
+# detailed name: Egg, white, raw, fresh
+# portion: 100 g, 100 g
+# nutrients: energy 52 kcal
+# prep details: none
+# brand: 01124
+
+# simple name: egg yolk
+# detailed name: Egg, yolk, raw, fresh 
+# portion: 100 g, 100 g
+# nutrients: energy 322
+# prep details: none
+# brand: 01125
+
+# simple name: brocolli
+# detailed name: steamers tuscan seasoned broccoli
+# portion: 1 bag, 297.5 g
+# nutrients: energy 210 kcal
+# prep details: microwave 5 minutes
+# brand: green giant
+
+# simple name: soup
+# detailed name: classic chicken noodle with white meat chicken chunky soup
+# portion: 1 container, 527 g
+# nutrients: energy 250 kcal
+# prep details: cooked over stove
+# brand: campbell's
+
+# simple name: ...
+# detailed name: ...
+# portion: ...
+# nutrients: ...
+# prep details: ...
+# brand: ...
 
 # simple name: ...
 # detailed name: ...
